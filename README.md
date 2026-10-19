@@ -20,7 +20,12 @@ Our focus is practical: start with a specific problem, build something people ca
 | **Internal tools** | Dashboards, research workspaces, and interfaces for reviewing records and exceptions. |
 | **Clear handover** | Setup instructions, documented checks, and visible limits so the next person can understand the system. |
 
-### Open-source work
+### Selected work
+
+- **[Automation proof notebook](https://github.com/zenoutlabs/automation-proof)** — recorded fictional-data n8n demonstrations, a reusable acceptance checklist, and checks readers can run. External services are simulated; this is not the commercial workflow pack.
+- **[Salam BOMCheck](https://github.com/zenoutlabs/salam-bomcheck)** — a small offline utility that finds mistakes in an electronics parts list. Built in Salam, with Python-driven tests.
+
+### Open-source contributions
 
 We're contributing to other projects while developing our own tools. Recent work includes a [tscircuit documentation contribution](https://github.com/tscircuit/docs/pull/939) explaining which side of a circuit board a connector attaches to, with a working example.
 
