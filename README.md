@@ -27,7 +27,7 @@ Our focus is practical: start with a specific problem, build something people ca
 
 ### Open-source contributions
 
-We're contributing to other projects while developing our own tools. Recent work includes a [tscircuit documentation contribution](https://github.com/tscircuit/docs/pull/939) explaining which side of a circuit board a connector attaches to, with a working example.
+One submitted [tscircuit documentation change](https://github.com/tscircuit/docs/pull/939) explains which side of a circuit board a connector attaches to and includes an example. The pull request is closed and was not merged.
 
 [Browse our pull requests](https://github.com/pulls?q=is%3Apr+author%3Azenoutlabs) · [Explore our repositories](https://github.com/zenoutlabs?tab=repositories)
 
