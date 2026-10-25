@@ -24,6 +24,7 @@ Our focus is practical: start with a specific problem, build something people ca
 
 - **[Automation proof notebook](https://github.com/zenoutlabs/automation-proof)** — recorded fictional-data n8n demonstrations, a reusable acceptance checklist, and checks readers can run. External services are simulated; this is not the commercial workflow pack.
 - **[Salam BOMCheck](https://github.com/zenoutlabs/salam-bomcheck)** — a small offline utility that finds mistakes in an electronics parts list. Built in Salam, with Python-driven tests.
+- **[ZenSigil](https://github.com/zenoutlabs/zensigil)** — an experimental programming language for calculations and data checks. Its Python interpreter runs locally; proposed actions stay descriptions for a person to review.
 
 ### Open-source contributions
 
