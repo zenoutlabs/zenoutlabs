@@ -9,7 +9,7 @@
 ## AI coding usage, publicly tracked
 
 [![Viberank](https://www.viberank.app/api/badge/zenoutlabs)](https://www.viberank.app/profile/zenoutlabs) [![CCWarriors](https://api.ccwarriors.xyz/badge/zenoutlabs.svg)](https://ccwarriors.xyz/zenoutlabs)
-
+We build our automations in high-volume, live production environments. Our development infrastructure tracks billions of tokens with a consistent 95% cache-hit efficiency, ensuring our systems are optimized for speed, context depth, and cost-effective scaling.
 </div>
 
 ZenOut Labs develops tools for the everyday work between spreadsheets, inboxes, and business software: organizing information, connecting routine tasks, and making the next decision clearer.
