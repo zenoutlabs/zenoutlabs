@@ -6,6 +6,10 @@
 
 [Website](https://zenoutlabs.com/) · [LinkedIn](https://www.linkedin.com/in/gregory-pfister-367809189/) · [Get in touch](mailto:zenoutlabs@gmail.com)
 
+## AI coding usage, publicly tracked
+
+[![viberank](https://www.viberank.app/api/badge/YOU)](https://www.viberank.app/profile/YOU)
+
 </div>
 
 ZenOut Labs develops tools for the everyday work between spreadsheets, inboxes, and business software: organizing information, connecting routine tasks, and making the next decision clearer.
