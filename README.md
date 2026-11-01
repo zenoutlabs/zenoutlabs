@@ -10,11 +10,10 @@
 
 [![Viberank](https://www.viberank.app/api/badge/zenoutlabs)](https://www.viberank.app/profile/zenoutlabs)
 
-35.6B tracked tokens · Inferno tier  
-Built with Codex and Claude Code.
+## AI coding usage, publicly tracked
 
-Usage totals currently cover locally recorded sessions.
-Claude Code cloud usage is not fully included.
+[![Viberank](https://www.viberank.app/api/badge/zenoutlabs)](https://www.viberank.app/profile/zenoutlabs)
+[![CCWarriors](https://api.ccwarriors.xyz/badge/zenoutlabs.svg)](https://ccwarriors.xyz/zenoutlabs)
 
 </div>
 
