@@ -9,9 +9,6 @@
 ## AI coding usage, publicly tracked
 
 [![Viberank](https://www.viberank.app/api/badge/zenoutlabs)](https://www.viberank.app/profile/zenoutlabs)
-
-## AI coding usage, publicly tracked
-
 [![Viberank](https://www.viberank.app/api/badge/zenoutlabs)](https://www.viberank.app/profile/zenoutlabs)
 [![CCWarriors](https://api.ccwarriors.xyz/badge/zenoutlabs.svg)](https://ccwarriors.xyz/zenoutlabs)
 
