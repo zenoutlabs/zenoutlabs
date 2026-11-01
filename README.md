@@ -10,6 +10,12 @@
 
 [![Viberank](https://www.viberank.app/api/badge/zenoutlabs)](https://www.viberank.app/profile/zenoutlabs)
 
+35.6B tracked tokens · Inferno tier  
+Built with Codex and Claude Code.
+
+Usage totals currently cover locally recorded sessions.
+Claude Code cloud usage is not fully included.
+
 </div>
 
 ZenOut Labs develops tools for the everyday work between spreadsheets, inboxes, and business software: organizing information, connecting routine tasks, and making the next decision clearer.
