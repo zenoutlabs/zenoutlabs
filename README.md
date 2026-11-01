@@ -8,7 +8,7 @@
 
 ## AI coding usage, publicly tracked
 
-[![viberank](https://www.viberank.app/api/badge/YOU)](https://www.viberank.app/profile/YOU)
+[![Viberank](https://www.viberank.app/api/badge/zenoutlabs)](https://www.viberank.app/profile/zenoutlabs)
 
 </div>
 
